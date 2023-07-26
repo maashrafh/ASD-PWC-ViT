@@ -1,5 +1,3 @@
 # Detection of Autism Spectrum Disorder using Principal Wavelet Coherence of rs-fMRI and Visual Transformer
 
-## Abstract
-
-The primary method for the diagnosis of autism spectrum disorder (ASD) in children and adults alike is done through subjective, time-consuming observations and interview assessments. As ASD is a subset of Neurodevelopmental disorders, it is possible to predict a diagnosis of ASD using Functional Connectivity patterns obtained from resting-state Magnetic Resonance Imaging (rs-fMRI) data. Using an established Principal Wavelet Coherence (PWC) method for blood-oxygen-level-dependent (BOLD) signal extraction that create scalograms to represent functional connectivity of a brain region; a Visual Transformer (ViT) based neural network can be used as the feature extractor and classifier on the scalogram images for providing a preliminary diagnosis for a suspected ASD patient, while being capable of providing causal explanations in image form. The trained ViT-B-16 model performs on par with other Convolutional Neural Network (CNN) implementations for feature extraction and classification, achieving amicable results.
+This repository exists as a means to keep the appendices of my Dissertation brief.
